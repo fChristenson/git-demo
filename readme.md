@@ -13,3 +13,11 @@
 - Merge conflicts
 - Resets
 - Hooks
+
+# PT3
+
+- git stash
+- Rebase
+- Reflog
+- Cherry pick
+- log search
