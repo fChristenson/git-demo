@@ -19,5 +19,3 @@
 - git stash
 - Rebase
 - Reflog
-- Cherry pick
-- log search
