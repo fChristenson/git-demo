@@ -1,6 +1,6 @@
 const returnTwo = require("./main");
 
-describe("ReturnTwo test", () => {
+describe("Return foobar test", () => {
   it("return one", () => {
     expect(returnTwo()).toEqual(2);
   });
